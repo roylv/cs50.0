@@ -1,0 +1,48 @@
+h1 {
+	color:#627044;
+	text-align: center;
+	background-color:teal;
+	width:500px;
+	height:200px;
+	margin:30px;
+	
+	padding:50px;
+
+	font-family: sans-serif, Arial ;
+	font-size: 72px;
+	font-weight: bold;
+
+	border: 3px dotted yellow;
+
+}
+li {
+	color:red;
+	margin:30px;
+
+}
+
+
+td, table {
+
+	border: 2px solid black;
+	border-collapse: collapse;
+	padding: 5px;
+	width:50%;
+	text-align:center;
+}
+
+th {
+
+	background-color: lightgray;
+}
+
+#bottom {
+	font-size:42px;
+
+
+}
+
+.name {
+	font-weight:bold;
+	color:blue;
+}
